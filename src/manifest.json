@@ -2,6 +2,11 @@
   "manifest_version": 3,
   "name": "Clickable Google Maps",
   "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "fblmbbcmciabmgonomlflfcbpidpopaf@lordevron"
+    }
+  },
   "host_permissions": [
     "https://www.google.com/search?q=*",
     "https://www.google.ad/search?q=*",
